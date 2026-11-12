@@ -1,9 +1,1 @@
-a=10
-if(a%2==0)
-{
-printf(number is positive);
-}
-else
-{
-printf(number is negative);
-}
+print('welcome to App v1.1 -added enhanced features')
